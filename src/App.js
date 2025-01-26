@@ -129,7 +129,8 @@ const Home = () => {
           l={4}
           sx={{ padding: 1, display: "inline-block", alignItems: "center" }}
         >
-          <QuiltedImageList />
+          {/* <QuiltedImageList /> */}
+          main content
         </Grid>
         {/* footer => content and copyright*/}
         <Grid item xs={12} m={6} l={4}>

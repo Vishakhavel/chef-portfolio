@@ -90,7 +90,7 @@ const Home = () => {
   function QuiltedImageList() {
     return (
       <ImageList
-        sx={{ width: 800, height: 800 }}
+        sx={{ width: "90%", height: 800 }}
         variant="quilted"
         cols={4}
         rowHeight={121}

@@ -59,7 +59,7 @@ export const NavBar = () => {
               textDecoration: "none",
             }}
           >
-            i'm a psycho bitch
+            i'm a cutu
           </Typography>
         </Toolbar>
       </Container>
